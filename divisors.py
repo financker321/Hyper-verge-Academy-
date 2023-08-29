@@ -1,6 +1,6 @@
 t= int(input("Enter the dividend : "))
 k = 1
-print("The divisors of",t)
+print("The divisors of",t,"is")
 while k<=t//2 :
     if(t%k==0):
         print(k)
