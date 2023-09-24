@@ -1,0 +1,2 @@
+ls -lhtra
+*The above command is used to list all files include hidden files by which file access recently and it also shows the file size in human readable format.
