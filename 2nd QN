@@ -1,0 +1,7 @@
+ls -lhrta
+List all directories and files
+  *long format listing , that provides detailed info about each file and directory
+  *makes it human readable
+  *sorts the files and directories by modification time, with the newest files or directories listed first.
+  *will show in reverse order i.e.. oldest first and new ones last
+  *will show the hidden files in the directory
