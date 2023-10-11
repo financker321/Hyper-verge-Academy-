@@ -1,0 +1,2 @@
+#!/bin/bash
+ps -eo pid,%cpu,user | grep root | awk '{print $1, $2}' > output.txt
